@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-"""comment"""
+""" comment."""
 
 
 def list_all(mongo_collection):
-    """comment"""
+    """ comment."""
     return list(mongo_collection).find())
