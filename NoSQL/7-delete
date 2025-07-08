@@ -1,6 +1,6 @@
 // comment
 
-db.school.deleteOne(
+db.school.deleteMany(
   { name: "Holberton school" },
   { multi: true }
 )
