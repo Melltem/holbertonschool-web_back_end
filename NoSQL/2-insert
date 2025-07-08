@@ -1,2 +1,2 @@
 // comment
-db.users.insertOne({ name: "Holberton school"})
+db.school.insertOne({ name: "Holberton school"})
